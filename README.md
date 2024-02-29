@@ -1,4 +1,4 @@
-# Apple Quality Prediction
+# A Comparative Analysis of LSTM, GRU, BiLSTM, and BiGRU Models for Apple Quality Prediction
 
 Predicting the quality of apples using Long Short-Term Memory (LSTM), Bidirectional LSTM (Bi-LSTM), Gated Recurrent Unit (GRU), and Bidirectional GRU (Bi-GRU).
 
