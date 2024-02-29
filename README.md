@@ -15,9 +15,13 @@ This project focuses on building and comparing different recurrent neural networ
 
 ## Requirements
 
-- Python 3.x
-- TensorFlow or PyTorch
-- Other necessary dependencies (list them if any)
+- Python version: 3.10.12 
+- TensorFlow version: 2.15.0
+- Matplotlib version: 3.7.1
+- Seaborn version: 0.13.1
+- NumPy version: 1.25.2
+- Pandas version: 1.5.3
+- scikit-learn version: 1.2.2
 
 ## Model Architecture
 
