@@ -10,6 +10,7 @@ This project focuses on building and comparing different recurrent neural networ
 
 - [Requirements](#requirements)
 - [Model Architecture](#model-architecture)
+- [Evaluation](#evaluation)
 - [Results](#results)
 
 ## Requirements
@@ -19,6 +20,10 @@ This project focuses on building and comparing different recurrent neural networ
 - Other necessary dependencies (list them if any)
 
 ## Model Architecture
+
+Clone the repository:
+
+## Evaluation
 
 Clone the repository:
 
