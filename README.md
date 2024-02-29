@@ -4,7 +4,7 @@ Predicting the quality of apples using Long Short-Term Memory (LSTM), Bidirectio
 
 ## Overview
 
-This project focuses on building and comparing different recurrent neural network (RNN) architectures to predict the quality of apples based on various features such as color, size, weight, and texture. The models used include LSTM, Bi-LSTM, GRU, and Bi-GRU.
+This project focuses on building and comparing different recurrent neural network (RNN) architectures to predict the quality of apples based on various features such as Size, Weight, Sweetness, Crunchiness, Juiciness, Ripeness, and Acidity. The models used include LSTM, Bi-LSTM, GRU, and Bi-GRU.
 
 ## Table of Contents
 
