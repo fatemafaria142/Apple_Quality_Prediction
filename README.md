@@ -9,6 +9,7 @@ This project focuses on building and comparing different recurrent neural networ
 ## Table of Contents
 
 - [Requirements](#requirements)
+- [Dataset](#dataset)
 - [Results](#results)
 
 ## Requirements
@@ -20,6 +21,8 @@ This project focuses on building and comparing different recurrent neural networ
 - NumPy version: 1.25.2
 - Pandas version: 1.5.3
 - scikit-learn version: 1.2.2
+## Dataset
+- https://www.kaggle.com/datasets/nelgiriyewithana/apple-quality/data
 
 ## Results
 
